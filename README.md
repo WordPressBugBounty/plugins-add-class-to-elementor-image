@@ -1,0 +1,1 @@
+# plugins-add-class-to-elementor-image
