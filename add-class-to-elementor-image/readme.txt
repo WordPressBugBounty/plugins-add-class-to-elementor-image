@@ -3,7 +3,7 @@ Contributors: EVCODE
 Donate link: https://eduardovillao.me/
 Tags: elementor, custom class, elementor pro, image class, lazy load
 Requires at least: 5.5
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.3.2
 Requires PHP: 7.0
 License: GPLv2License
